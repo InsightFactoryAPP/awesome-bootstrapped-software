@@ -38,7 +38,6 @@ To be included in this list, software must:
 
 ## Guidelines
 
-- Add entries in alphabetical order within their category
 - Use clear, concise descriptions
 - Ensure links are working and point to the official website
 - One entry per software
