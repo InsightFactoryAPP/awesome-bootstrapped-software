@@ -26,11 +26,15 @@ Example:
 
 To be included in this list, software must:
 
+- No AI-generated slop or generic, vibe-coded design. Products should feel thoughtfully designed, polished, and intentional
+- A custom domain. No products hosted on platform subdomains like .vercel.app or similar
 - Be built by bootstrapped founders (not VC-backed)
 - Prioritize usability and user experience
 - Offer fast, responsive customer support
 - Have sane, transparent pricing
 - Be actively maintained and reliable
+
+> **Editorial discretion**: Every submission is reviewed for quality and fit. Meeting the listed criteria does not guarantee acceptance, and I reserve the right to reject any submission at my sole discretion.
 
 ## Guidelines
 
